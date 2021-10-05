@@ -1,0 +1,8 @@
+name: SkMore
+version: '${project.version}'
+main: io.github.tarna.skmore.SkMore
+api-version: 1.17
+authors: [ tarna ]
+description: more skript
+depend:
+  - Skript

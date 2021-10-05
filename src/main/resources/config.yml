@@ -1,0 +1,53 @@
+# Welcome to the SkMore Config
+
+elements:
+  bound: true
+  discord: true
+  gui: true
+  math: true
+  nbt: true
+  particles: true
+  pathfinding: true
+  permissionmanager: true
+  pluginmanager: true
+  recipe: true
+  scoreboard: true
+  structure: true
+  textcomponent: true
+  worldcreator: true
+
+  other: true
+
+  plugins:
+    AdvancedBan: true
+    Autorank: true
+    Bedwars: true
+    Bitcoin: true
+    Cannons: true
+    ClearLag: true
+    CombatLog: true
+    GriefPrevention: true
+    Lockette: true
+    LockettePro: true
+    LuckPerms: true
+    LWC: true
+    MinePacks: true
+    Parties: true
+    PlayerPoints: true
+    PlotSquared: true
+    PrisonMines: true
+    PvPLevels: true
+    Shopkeepers: true
+    ShopChest: true
+    SkyWars_CookLoco: true
+    SkyWars_Daboross: true
+    Slimefun: true
+    WorldEdit: true
+
+# list of player uuids as owners
+# used for is owner condition
+owners:
+  # - uuid here
+
+discord:
+  default_prefix: !
